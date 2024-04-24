@@ -105,11 +105,11 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
     position: fixed;
 }
 
-.mob-menu.is-open {
+/*.mob-menu.is-open {
     opacity: 1;
     pointer-events: auto;
     visibility: visible;
-}
+}*/
 .mob-menu-button-close{
     margin-left: auto;
     border-radius: 50%;
